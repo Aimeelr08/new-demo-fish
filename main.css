@@ -1,8 +1,19 @@
 body {
   background: #fff;
+  text-align: center;
 }
-
+.paragraph{
+  background:#cfe;
+  width:50%;
+  height:50%;
+}
 h1 {
+  flex:0;
+  color: grey;
+  background:#cfcfcf;
+}
+h2{
+  flex:2;
   color: grey;
   background:#cfcfcf;
 }
