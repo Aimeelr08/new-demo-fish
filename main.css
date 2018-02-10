@@ -18,12 +18,11 @@ h2{
   background:#cfcfcf;
 }
 .gridfish{
-
     width:400px;
     height:500px;
   
 }
-#square {
+.col-sm#square {
   background:#cfecfe; 
   width:100px;
   height:100px;
