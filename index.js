@@ -1,7 +1,7 @@
 'use strict'
 const request = function () {
 let apiBaseUrl = "http://petstore-demo-endpoint.execute-api.com/petstore/pets"
-    request.get('.getfishes', apiBaseUrl);
+   document.getElementById('#images', apiBaseUrl)
     console.log('get api');
     
 }();
