@@ -1,0 +1,15 @@
+.navbar {
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0;
+    background-color:black;
+    border: 0;
+    font-size: 11px !important;
+    letter-spacing: 4px;
+    opacity: 0.9;
+}
+
+footer {
+    background-color: black;
+    color:white;
+}
+
