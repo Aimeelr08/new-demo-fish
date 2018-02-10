@@ -1,8 +1,1 @@
-const app = "../app.js"
-
-$(() => {
-    app.on('submit', '')
-    
- 
-})
-
+ require("./src/index.js");

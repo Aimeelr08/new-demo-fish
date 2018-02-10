@@ -3,8 +3,13 @@
 // })
 
 
-const apiBaseUrl = "https://fishbase.ropensci.org/seabase"
+// const apiBaseUrl = "https://fishbase.ropensci.org/seabase"
 
-module.exports = {
-    
-}
+'use strict';
+
+const app = {
+  // host: 'http://localhost:/'
+host: 'https://fishbase.ropensci.org/seabase'
+};
+
+module.exports = app;
