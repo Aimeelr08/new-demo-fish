@@ -17,6 +17,9 @@ h2{
   color: grey;
   background:#cfcfcf;
 }
+h3{
+  background-color:gold;
+}
 .gridfish{
     width:400px;
     height:500px;

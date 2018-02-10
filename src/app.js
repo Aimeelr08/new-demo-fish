@@ -9,7 +9,7 @@
 
 const app = {
   // host: 'http://localhost:/'
-host: 'https://fishbase.ropensci.org/seabase'
+host: 'http://petstore-demo-endpoint.execute-api.com/petstore/pets'
 };
 
 module.exports = app;
