@@ -1,9 +1,12 @@
-
+'use strict'
 const request = function () {
-const apiBaseUrl = "https://fishbase.ropensci.org/seabase"
-    $('.getfishes').on('submit')
+let apiBaseUrl = "http://petstore-demo-endpoint.execute-api.com/petstore/pets"
+    request.get('.getfishes', apiBaseUrl);
     console.log('get api');
-}
+    
+}();
+
+
 'use strict';
 
 // const app = {
