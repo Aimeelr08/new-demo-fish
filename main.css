@@ -17,3 +17,19 @@ h2{
   color: grey;
   background:#cfcfcf;
 }
+.gridfish{
+  background:teal;
+    width:100%;
+  height:100%;
+  
+}
+.row{
+  background:purple;
+    width:3em;
+  height:3em;
+}
+.col-sm{
+  background:teal ;
+  width:3em;
+  height:3em;
+}
