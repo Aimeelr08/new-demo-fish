@@ -1,6 +1,7 @@
 
 const request = function () {
-const apiBaseUrl = require("https://fishbase.ropensci.org/seabase");
+const apiBaseUrl = "https://fishbase.ropensci.org/seabase"
+    $('.getfishes').on('submit')
     console.log('get api');
 }
 'use strict';
